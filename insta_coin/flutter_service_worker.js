@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "cd6c12c37152cff7883cebb765e1232d",
-"index.html": "d552fdee8aa7844a22f08f621c93cfdf",
-"/": "d552fdee8aa7844a22f08f621c93cfdf",
-"main.dart.js": "3dbd9a9b856a3d8bbaa0d72376e78195",
+"index.html": "dd87e850fa4edbbfd988e06c2f3c8091",
+"/": "dd87e850fa4edbbfd988e06c2f3c8091",
+"main.dart.js": "b0e5193f53759d3cdb067bccee86c4af",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -52,7 +52,7 @@ const RESOURCES = {
 "assets/img/main/kmalta5.jpeg": "49f1406401bc94bd2b1d3e4c8cb99807",
 "assets/img/main/coindistribution.png": "acbcf3318be5ffee01ef302b877d11c7",
 "assets/img/main/kmalta4.jpeg": "b976f65da947b9d54325380590b2643f",
-"assets/img/main/public.png": "772e5dc1fb3f374954258d43d70c3179",
+"assets/img/main/public.png": "b10d93a1b79e1261b972a01f7da7f2db",
 "assets/img/main/main_phone.png": "b3086e3d430afbfb9afbb089b74396f3",
 "assets/img/main/ip.png": "166e0c51262154f0645644c343ff36a7",
 "assets/img/main/bff3.jpeg": "62a6a90c66b7ff48c61adf2bebf641f8",
